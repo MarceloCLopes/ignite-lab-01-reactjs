@@ -1,4 +1,4 @@
-##Ignite Lab 01
+Ignite Lab 01
 
 ---
 
@@ -8,11 +8,11 @@
 - Next.js
 - Apollo Client (GraphQL)
 
-###Funcionalidades
+Funcionalidades
 
 ---
 
-####Serviço de compras (purchases)
+Serviço de compras (purchases)
 
 - [Admin] Cadastro de produtos
 
@@ -24,7 +24,7 @@
 
 - [Public] Lista produtos disponíveis p/ compra
 
-####Serviço de sala de aula (classroom)
+Serviço de sala de aula (classroom)
 
 - [Admin] Listar matrículas
 
